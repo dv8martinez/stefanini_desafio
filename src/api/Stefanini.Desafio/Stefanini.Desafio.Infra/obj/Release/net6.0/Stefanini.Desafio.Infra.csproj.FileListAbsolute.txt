@@ -1,0 +1,17 @@
+C:\Users\lfaylon\Downloads\Stefanini.Desafio\Stefanini.Desafio.Infra\obj\Release\net6.0\Stefanini.Desafio.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lfaylon\Downloads\Stefanini.Desafio\Stefanini.Desafio.Infra\obj\Release\net6.0\Stefanini.Desafio.Infra.AssemblyInfoInputs.cache
+C:\Users\lfaylon\Downloads\Stefanini.Desafio\Stefanini.Desafio.Infra\obj\Release\net6.0\Stefanini.Desafio.Infra.AssemblyInfo.cs
+C:\Users\lfaylon\Downloads\Stefanini.Desafio\Stefanini.Desafio.Infra\obj\Release\net6.0\Stefanini.Desafio.Infra.csproj.CoreCompileInputs.cache
+C:\Users\lfaylon\Downloads\Stefanini.Desafio\Stefanini.Desafio.Infra\bin\Release\net6.0\Stefanini.Desafio.Infra.deps.json
+C:\Users\lfaylon\Downloads\Stefanini.Desafio\Stefanini.Desafio.Infra\bin\Release\net6.0\Stefanini.Desafio.Infra.runtimeconfig.json
+C:\Users\lfaylon\Downloads\Stefanini.Desafio\Stefanini.Desafio.Infra\bin\Release\net6.0\Stefanini.Desafio.Infra.dll
+C:\Users\lfaylon\Downloads\Stefanini.Desafio\Stefanini.Desafio.Infra\bin\Release\net6.0\Stefanini.Desafio.Infra.pdb
+C:\Users\lfaylon\Downloads\Stefanini.Desafio\Stefanini.Desafio.Infra\bin\Release\net6.0\Stefanini.Desafio.Domain.dll
+C:\Users\lfaylon\Downloads\Stefanini.Desafio\Stefanini.Desafio.Infra\bin\Release\net6.0\Stefanini.Desafio.Domain.pdb
+C:\Users\lfaylon\Downloads\Stefanini.Desafio\Stefanini.Desafio.Infra\obj\Release\net6.0\Stefanini.Desafio.Infra.csproj.AssemblyReference.cache
+C:\Users\lfaylon\Downloads\Stefanini.Desafio\Stefanini.Desafio.Infra\obj\Release\net6.0\Stefanini.Desafio.Infra.csproj.CopyComplete
+C:\Users\lfaylon\Downloads\Stefanini.Desafio\Stefanini.Desafio.Infra\obj\Release\net6.0\Stefanini.Desafio.Infra.dll
+C:\Users\lfaylon\Downloads\Stefanini.Desafio\Stefanini.Desafio.Infra\obj\Release\net6.0\refint\Stefanini.Desafio.Infra.dll
+C:\Users\lfaylon\Downloads\Stefanini.Desafio\Stefanini.Desafio.Infra\obj\Release\net6.0\Stefanini.Desafio.Infra.pdb
+C:\Users\lfaylon\Downloads\Stefanini.Desafio\Stefanini.Desafio.Infra\obj\Release\net6.0\Stefanini.Desafio.Infra.genruntimeconfig.cache
+C:\Users\lfaylon\Downloads\Stefanini.Desafio\Stefanini.Desafio.Infra\obj\Release\net6.0\ref\Stefanini.Desafio.Infra.dll

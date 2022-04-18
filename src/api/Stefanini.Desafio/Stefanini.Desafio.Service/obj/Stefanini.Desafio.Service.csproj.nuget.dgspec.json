@@ -1,0 +1,227 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\_Docker\\Stefanini\\src\\Stefanini.Desafio\\Stefanini.Desafio.Service\\Stefanini.Desafio.Service.csproj": {}
+  },
+  "projects": {
+    "E:\\_Docker\\Stefanini\\src\\Stefanini.Desafio\\Stefanini.Desafio.Domain\\Stefanini.Desafio.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\_Docker\\Stefanini\\src\\Stefanini.Desafio\\Stefanini.Desafio.Domain\\Stefanini.Desafio.Domain.csproj",
+        "projectName": "Stefanini.Desafio.Domain",
+        "projectPath": "E:\\_Docker\\Stefanini\\src\\Stefanini.Desafio\\Stefanini.Desafio.Domain\\Stefanini.Desafio.Domain.csproj",
+        "packagesPath": "C:\\Users\\David Mauricio\\.nuget\\packages\\",
+        "outputPath": "E:\\_Docker\\Stefanini\\src\\Stefanini.Desafio\\Stefanini.Desafio.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\David Mauricio\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\David Mauricio\\Desktop\\_teste_Hermes": {},
+          "C:\\_LAB_DEV\\_Azure\\_git\\NugetPacks\\AuthControl": {},
+          "C:\\_LAB_DEV\\_Azure\\_git\\NugetPacks\\EncrypLoki": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/dvmatos/Orion/_packaging/OrionFeed/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\_Docker\\Stefanini\\src\\Stefanini.Desafio\\Stefanini.Desafio.Infra\\Stefanini.Desafio.Infra.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\_Docker\\Stefanini\\src\\Stefanini.Desafio\\Stefanini.Desafio.Infra\\Stefanini.Desafio.Infra.csproj",
+        "projectName": "Stefanini.Desafio.Infra",
+        "projectPath": "E:\\_Docker\\Stefanini\\src\\Stefanini.Desafio\\Stefanini.Desafio.Infra\\Stefanini.Desafio.Infra.csproj",
+        "packagesPath": "C:\\Users\\David Mauricio\\.nuget\\packages\\",
+        "outputPath": "E:\\_Docker\\Stefanini\\src\\Stefanini.Desafio\\Stefanini.Desafio.Infra\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\David Mauricio\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\David Mauricio\\Desktop\\_teste_Hermes": {},
+          "C:\\_LAB_DEV\\_Azure\\_git\\NugetPacks\\AuthControl": {},
+          "C:\\_LAB_DEV\\_Azure\\_git\\NugetPacks\\EncrypLoki": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/dvmatos/Orion/_packaging/OrionFeed/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "E:\\_Docker\\Stefanini\\src\\Stefanini.Desafio\\Stefanini.Desafio.Domain\\Stefanini.Desafio.Domain.csproj": {
+                "projectPath": "E:\\_Docker\\Stefanini\\src\\Stefanini.Desafio\\Stefanini.Desafio.Domain\\Stefanini.Desafio.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\_Docker\\Stefanini\\src\\Stefanini.Desafio\\Stefanini.Desafio.Service\\Stefanini.Desafio.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\_Docker\\Stefanini\\src\\Stefanini.Desafio\\Stefanini.Desafio.Service\\Stefanini.Desafio.Service.csproj",
+        "projectName": "Stefanini.Desafio.Service",
+        "projectPath": "E:\\_Docker\\Stefanini\\src\\Stefanini.Desafio\\Stefanini.Desafio.Service\\Stefanini.Desafio.Service.csproj",
+        "packagesPath": "C:\\Users\\David Mauricio\\.nuget\\packages\\",
+        "outputPath": "E:\\_Docker\\Stefanini\\src\\Stefanini.Desafio\\Stefanini.Desafio.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\David Mauricio\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\David Mauricio\\Desktop\\_teste_Hermes": {},
+          "C:\\_LAB_DEV\\_Azure\\_git\\NugetPacks\\AuthControl": {},
+          "C:\\_LAB_DEV\\_Azure\\_git\\NugetPacks\\EncrypLoki": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/dvmatos/Orion/_packaging/OrionFeed/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "E:\\_Docker\\Stefanini\\src\\Stefanini.Desafio\\Stefanini.Desafio.Domain\\Stefanini.Desafio.Domain.csproj": {
+                "projectPath": "E:\\_Docker\\Stefanini\\src\\Stefanini.Desafio\\Stefanini.Desafio.Domain\\Stefanini.Desafio.Domain.csproj"
+              },
+              "E:\\_Docker\\Stefanini\\src\\Stefanini.Desafio\\Stefanini.Desafio.Infra\\Stefanini.Desafio.Infra.csproj": {
+                "projectPath": "E:\\_Docker\\Stefanini\\src\\Stefanini.Desafio\\Stefanini.Desafio.Infra\\Stefanini.Desafio.Infra.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

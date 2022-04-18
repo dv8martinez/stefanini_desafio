@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Stefanini.Desafio.Domain\Stefanini.Desafio.Domain.csproj" />
+    <ProjectReference Include="..\Stefanini.Desafio.Infra\Stefanini.Desafio.Infra.csproj" />
+  </ItemGroup>
+
+</Project>

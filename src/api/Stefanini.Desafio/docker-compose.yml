@@ -1,0 +1,24 @@
+version: '3.4'
+services:
+    stefaniniAPI:
+        image: ${DOCKER_REGISTRY-}stefaninidesafioapi
+        build:
+            context: .
+            dockerfile: .
+        ports:
+            - "8081:80"
+        depends_on:
+            - sqlData
+            
+    
+    sqlData:
+        image: ${DOCKER_REGISTRY-}mcr.microsoft.com/mssql/server:2019-CU15-ubuntu-20.04
+        environment:
+            - SA_PASSWORD=dba#100!
+            - ACCEPT_EULA=Y
+        volumes:
+           - C:\Dados\sqlserver:/var/opt/mssql/data
+        ports:
+            - "5434:1433"
+
+        

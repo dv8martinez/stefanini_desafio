@@ -1,0 +1,17 @@
+C:\Users\lfaylon\Downloads\Stefanini.Desafio\Stefanini.Desafio.Service\obj\Release\net6.0\Stefanini.Desafio.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lfaylon\Downloads\Stefanini.Desafio\Stefanini.Desafio.Service\obj\Release\net6.0\Stefanini.Desafio.Service.AssemblyInfoInputs.cache
+C:\Users\lfaylon\Downloads\Stefanini.Desafio\Stefanini.Desafio.Service\obj\Release\net6.0\Stefanini.Desafio.Service.AssemblyInfo.cs
+C:\Users\lfaylon\Downloads\Stefanini.Desafio\Stefanini.Desafio.Service\obj\Release\net6.0\Stefanini.Desafio.Service.csproj.CoreCompileInputs.cache
+C:\Users\lfaylon\Downloads\Stefanini.Desafio\Stefanini.Desafio.Service\bin\Release\net6.0\Stefanini.Desafio.Service.deps.json
+C:\Users\lfaylon\Downloads\Stefanini.Desafio\Stefanini.Desafio.Service\bin\Release\net6.0\Stefanini.Desafio.Service.dll
+C:\Users\lfaylon\Downloads\Stefanini.Desafio\Stefanini.Desafio.Service\bin\Release\net6.0\Stefanini.Desafio.Service.pdb
+C:\Users\lfaylon\Downloads\Stefanini.Desafio\Stefanini.Desafio.Service\bin\Release\net6.0\Stefanini.Desafio.Domain.dll
+C:\Users\lfaylon\Downloads\Stefanini.Desafio\Stefanini.Desafio.Service\bin\Release\net6.0\Stefanini.Desafio.Infra.dll
+C:\Users\lfaylon\Downloads\Stefanini.Desafio\Stefanini.Desafio.Service\bin\Release\net6.0\Stefanini.Desafio.Domain.pdb
+C:\Users\lfaylon\Downloads\Stefanini.Desafio\Stefanini.Desafio.Service\bin\Release\net6.0\Stefanini.Desafio.Infra.pdb
+C:\Users\lfaylon\Downloads\Stefanini.Desafio\Stefanini.Desafio.Service\obj\Release\net6.0\Stefanini.Desafio.Service.csproj.AssemblyReference.cache
+C:\Users\lfaylon\Downloads\Stefanini.Desafio\Stefanini.Desafio.Service\obj\Release\net6.0\Stefanini.Desafio.Service.csproj.CopyComplete
+C:\Users\lfaylon\Downloads\Stefanini.Desafio\Stefanini.Desafio.Service\obj\Release\net6.0\Stefanini.Desafio.Service.dll
+C:\Users\lfaylon\Downloads\Stefanini.Desafio\Stefanini.Desafio.Service\obj\Release\net6.0\refint\Stefanini.Desafio.Service.dll
+C:\Users\lfaylon\Downloads\Stefanini.Desafio\Stefanini.Desafio.Service\obj\Release\net6.0\Stefanini.Desafio.Service.pdb
+C:\Users\lfaylon\Downloads\Stefanini.Desafio\Stefanini.Desafio.Service\obj\Release\net6.0\ref\Stefanini.Desafio.Service.dll

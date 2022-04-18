@@ -1,0 +1,12 @@
+C:\Users\lfaylon\Downloads\Stefanini.Desafio\Stefanini.Desafio.Domain\obj\Release\net6.0\Stefanini.Desafio.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lfaylon\Downloads\Stefanini.Desafio\Stefanini.Desafio.Domain\obj\Release\net6.0\Stefanini.Desafio.Domain.AssemblyInfoInputs.cache
+C:\Users\lfaylon\Downloads\Stefanini.Desafio\Stefanini.Desafio.Domain\obj\Release\net6.0\Stefanini.Desafio.Domain.AssemblyInfo.cs
+C:\Users\lfaylon\Downloads\Stefanini.Desafio\Stefanini.Desafio.Domain\obj\Release\net6.0\Stefanini.Desafio.Domain.csproj.CoreCompileInputs.cache
+C:\Users\lfaylon\Downloads\Stefanini.Desafio\Stefanini.Desafio.Domain\bin\Release\net6.0\Stefanini.Desafio.Domain.deps.json
+C:\Users\lfaylon\Downloads\Stefanini.Desafio\Stefanini.Desafio.Domain\bin\Release\net6.0\Stefanini.Desafio.Domain.dll
+C:\Users\lfaylon\Downloads\Stefanini.Desafio\Stefanini.Desafio.Domain\bin\Release\net6.0\Stefanini.Desafio.Domain.pdb
+C:\Users\lfaylon\Downloads\Stefanini.Desafio\Stefanini.Desafio.Domain\obj\Release\net6.0\Stefanini.Desafio.Domain.csproj.AssemblyReference.cache
+C:\Users\lfaylon\Downloads\Stefanini.Desafio\Stefanini.Desafio.Domain\obj\Release\net6.0\Stefanini.Desafio.Domain.dll
+C:\Users\lfaylon\Downloads\Stefanini.Desafio\Stefanini.Desafio.Domain\obj\Release\net6.0\refint\Stefanini.Desafio.Domain.dll
+C:\Users\lfaylon\Downloads\Stefanini.Desafio\Stefanini.Desafio.Domain\obj\Release\net6.0\Stefanini.Desafio.Domain.pdb
+C:\Users\lfaylon\Downloads\Stefanini.Desafio\Stefanini.Desafio.Domain\obj\Release\net6.0\ref\Stefanini.Desafio.Domain.dll

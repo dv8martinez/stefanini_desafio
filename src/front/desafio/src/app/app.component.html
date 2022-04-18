@@ -1,0 +1,49 @@
+<po-page-default [p-title]="title" [p-actions]="actions">
+  <div class="po-xl-12 po-lg-12 po-md-12 po-sm-12">
+    <div class="po-xl-4 po-lg-4 po-md-4 po-sm-12">
+      <po-container>
+        <form [formGroup]="personForm">
+          <po-input
+            class="po-xl-12 po-lg-12 po-md-12 po-sm-12"
+            name="iptNname"
+            formControlName="name"
+            p-label="Nome Completo"
+          >
+          </po-input>
+          <po-input
+            class="po-xl-8 po-lg-8 po-md-8 po-sm-12"
+            name="iptCPF"
+            formControlName="cpf"
+            p-label="CPF"
+          >
+          </po-input>
+          <po-combo
+            class="po-xl-12 po-lg-12 po-md-12 po-sm-12"
+            name="cmbCity"
+            formControlName="city"
+            p-label="Cidade"
+            [p-options]="[{ value: 'Option 1' }, { value: 'Option 2' }]"
+          >
+          </po-combo>
+          <po-button
+            class="po-xl-12 po-lg-12 po-md-12 po-sm-12"
+            p-label="Salvar"
+            p-type="primary"
+          >
+          </po-button>
+        </form>
+      </po-container>
+    </div>
+    <div class="po-xl-8 po-lg-8 po-md-8 po-sm-12">
+      <po-table [p-columns]="personsCols" [p-items]="persons"> </po-table>
+    </div>
+  </div>
+
+  <po-modal
+    #mdlCity
+    p-click-out="false"
+    p-size="auto"
+    p-title="Gerenciamento de Cidades"
+  >
+  </po-modal>
+</po-page-default>
